@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -pi.bak 's/A/Z/g; s/c/e/g;'
+perl -pi.bak 's/A/Z/g s/c/e/g;'
