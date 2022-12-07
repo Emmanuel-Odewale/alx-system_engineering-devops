@@ -1,0 +1,2 @@
+#!/bin/bash
+read user_input | perl -pi.bak 's/A/Z/g; s/c/e/g;'
