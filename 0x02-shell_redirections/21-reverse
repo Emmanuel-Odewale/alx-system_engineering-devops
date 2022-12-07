@@ -1,2 +1,2 @@
 #!/bin/bash
-read | rev
+read user_input | rev
